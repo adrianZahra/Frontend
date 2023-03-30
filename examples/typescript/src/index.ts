@@ -18,4 +18,6 @@ document.body.onload = function () {
 	});
 
 	document.body.appendChild(spsApplication.rootElement);
+
+	console.log("this is for version 1.1.0")
 }
